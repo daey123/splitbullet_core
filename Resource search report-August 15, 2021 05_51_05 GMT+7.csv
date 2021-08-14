@@ -1,0 +1,16 @@
+Name,Asset type,Project ID,Display name,Description,Location,Labels,Network tags,Additional attributes
+"//serviceusage.googleapis.com/projects/518789474551/services/logging.googleapis.com","serviceusage.Service","primal-catfish-308615","logging.googleapis.com",,"global",,,
+"//serviceusage.googleapis.com/projects/518789474551/services/clouddebugger.googleapis.com","serviceusage.Service","primal-catfish-308615","clouddebugger.googleapis.com",,"global",,,
+"//serviceusage.googleapis.com/projects/518789474551/services/bigquerystorage.googleapis.com","serviceusage.Service","primal-catfish-308615","bigquerystorage.googleapis.com",,"global",,,
+"//serviceusage.googleapis.com/projects/518789474551/services/servicemanagement.googleapis.com","serviceusage.Service","primal-catfish-308615","servicemanagement.googleapis.com",,"global",,,
+"//serviceusage.googleapis.com/projects/518789474551/services/serviceusage.googleapis.com","serviceusage.Service","primal-catfish-308615","serviceusage.googleapis.com",,"global",,,
+"//serviceusage.googleapis.com/projects/518789474551/services/bigquery.googleapis.com","serviceusage.Service","primal-catfish-308615","bigquery.googleapis.com",,"global",,,
+"//serviceusage.googleapis.com/projects/518789474551/services/storage.googleapis.com","serviceusage.Service","primal-catfish-308615","storage.googleapis.com",,"global",,,
+"//cloudresourcemanager.googleapis.com/projects/primal-catfish-308615","cloudresourcemanager.Project","primal-catfish-308615","My First Project",,"global",,,"{projectId:primal-catfish-308615}"
+"//serviceusage.googleapis.com/projects/518789474551/services/cloudtrace.googleapis.com","serviceusage.Service","primal-catfish-308615","cloudtrace.googleapis.com",,"global",,,
+"//serviceusage.googleapis.com/projects/518789474551/services/monitoring.googleapis.com","serviceusage.Service","primal-catfish-308615","monitoring.googleapis.com",,"global",,,
+"//serviceusage.googleapis.com/projects/518789474551/services/datastore.googleapis.com","serviceusage.Service","primal-catfish-308615","datastore.googleapis.com",,"global",,,
+"//serviceusage.googleapis.com/projects/518789474551/services/storage-api.googleapis.com","serviceusage.Service","primal-catfish-308615","storage-api.googleapis.com",,"global",,,
+"//serviceusage.googleapis.com/projects/518789474551/services/storage-component.googleapis.com","serviceusage.Service","primal-catfish-308615","storage-component.googleapis.com",,"global",,,
+"//serviceusage.googleapis.com/projects/518789474551/services/sql-component.googleapis.com","serviceusage.Service","primal-catfish-308615","sql-component.googleapis.com",,"global",,,
+"//serviceusage.googleapis.com/projects/518789474551/services/cloudapis.googleapis.com","serviceusage.Service","primal-catfish-308615","cloudapis.googleapis.com",,"global",,,
